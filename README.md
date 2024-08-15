@@ -70,7 +70,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:pateljuber950@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+<a href="www.linkedin.com/in/juber-patel-4876b815b">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
@@ -95,8 +95,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  <a href="https://github-readme-stats.vercel.app/api?username=Audi882"> 
-<img  src="https://streak-stats.demolab.com?user=Audi882&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
+  <a href=""> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Audi882"/>
   </a>
   </p>
 
