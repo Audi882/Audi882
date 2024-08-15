@@ -96,7 +96,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
   <a href=""> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Audi882"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Audi882&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
   </a>
   </p>
 
